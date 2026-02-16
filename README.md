@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # MAUSWAG
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# MAUSWAGFRONTEND
+ETO NA ANG FRONTEND NG MAUSWASG WASDASD
+>>>>>>> ec9057ef7ad860cf42db74c74f0797279a8b298e
